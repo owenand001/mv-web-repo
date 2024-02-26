@@ -490,7 +490,7 @@
       "title": "Connections",
       "workers": {
         "addButton": "Add new worker",
-        "description": "To make the application function, all traffic is routed through proxies. Enable this if you want to bring your own workers. <0>Instructions.</0>",
+        "description": "To make the application function, all traffic is routed through proxies. Enable this if you want to bring your own workers. (Note from site host: I'm hosting and maintaining these proxes, use them: https://deluxe-unicorn-ddb80d.netlify.app, https://simple-mvweb-proxy2.netlify.app) <0>Instructions.</0>",
         "emptyState": "No workers yet, add one below",
         "label": "Use custom proxy workers",
         "urlLabel": "Worker URLs",
